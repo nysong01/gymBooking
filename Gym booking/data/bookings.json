@@ -1,0 +1,32 @@
+{"listOfBooking": [
+    {
+        "name": "B",
+        "phoneNum": "22222222",
+        "time": "3:00pm",
+        "day": "TUESDAY"
+    },
+    {
+        "name": "C",
+        "phoneNum": "33333333",
+        "time": "3:00pm",
+        "day": "WEDNESDAY"
+    },
+    {
+        "name": "D",
+        "phoneNum": "44444444",
+        "time": "4:00am",
+        "day": "THURSDAY"
+    },
+    {
+        "name": "E",
+        "phoneNum": "55555555",
+        "time": "5:00am",
+        "day": "FRIDAY"
+    },
+    {
+        "name": "F",
+        "phoneNum": "66666666",
+        "time": "6:00pm",
+        "day": "SATURDAY"
+    }
+]}

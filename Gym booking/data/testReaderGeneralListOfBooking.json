@@ -1,0 +1,16 @@
+{
+  "listOfBooking": [
+    {
+      "name": "A",
+      "phoneNum": "11111111",
+      "time": "10:00pm",
+      "day": "MONDAY"
+    },
+    {
+      "name": "B",
+      "phoneNum": "22222222",
+      "time": "9:00am",
+      "day": "FRIDAY"
+    }
+  ]
+}
